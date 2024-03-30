@@ -1,4 +1,4 @@
-[FVTT 모듈] D&D 한글화 번역 및 자동 레벨업 시스템
+[FVTT 모듈] Saura's Data
 
 ◈ 수록내용 ◈
 
