@@ -1,8 +1,15 @@
-2024/03/27-13:01:11.925992 7f53837fe700 Recovering log #459
-2024/03/27-13:01:11.934109 7f53837fe700 Delete type=3 #457
-2024/03/27-13:01:11.934150 7f53837fe700 Delete type=0 #459
-2024/03/27-15:14:19.696803 7f5380d39700 Level-0 table #464: started
-2024/03/27-15:14:19.696848 7f5380d39700 Level-0 table #464: 0 bytes OK
-2024/03/27-15:14:19.699038 7f5380d39700 Delete type=0 #462
-2024/03/27-15:14:19.702355 7f5380d39700 Manual compaction at level-0 from '!folders!0bZ2XBMmXrstRM6O' @ 72057594037927935 : 1 .. '!items.effects!xZwFvzNKypmEBGmo.ift8nqiCR3vZEnDA' @ 0 : 0; will stop at (end)
-2024/03/27-15:14:19.712542 7f5380d39700 Manual compaction at level-1 from '!folders!0bZ2XBMmXrstRM6O' @ 72057594037927935 : 1 .. '!items.effects!xZwFvzNKypmEBGmo.ift8nqiCR3vZEnDA' @ 0 : 0; will stop at (end)
+2024/03/30-10:13:33.756221 7f539145b700 Recovering log #485
+2024/03/30-10:13:33.763324 7f539145b700 Delete type=3 #483
+2024/03/30-10:13:33.763366 7f539145b700 Delete type=0 #485
+2024/03/31-05:30:17.304399 7f5380d39700 Level-0 table #490: started
+2024/03/31-05:30:17.314147 7f5380d39700 Level-0 table #490: 187947 bytes OK
+2024/03/31-05:30:17.318634 7f5380d39700 Delete type=0 #488
+2024/03/31-05:30:17.346408 7f5380d39700 Manual compaction at level-0 from '!folders!0bZ2XBMmXrstRM6O' @ 72057594037927935 : 1 .. '!items.effects!xZwFvzNKypmEBGmo.ift8nqiCR3vZEnDA' @ 0 : 0; will stop at (end)
+2024/03/31-05:30:17.358547 7f5380d39700 Manual compaction at level-1 from '!folders!0bZ2XBMmXrstRM6O' @ 72057594037927935 : 1 .. '!items.effects!xZwFvzNKypmEBGmo.ift8nqiCR3vZEnDA' @ 0 : 0; will stop at '!items.effects!mqEfNSdCjN2WIBmI.bTTJTBmVoBEiJfwh' @ 889 : 1
+2024/03/31-05:30:17.358588 7f5380d39700 Compacting 1@1 + 1@2 files
+2024/03/31-05:30:17.370296 7f5380d39700 Generated table #491@1: 318 keys, 187909 bytes
+2024/03/31-05:30:17.370313 7f5380d39700 Compacted 1@1 + 1@2 files => 187909 bytes
+2024/03/31-05:30:17.372510 7f5380d39700 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/31-05:30:17.372602 7f5380d39700 Delete type=2 #490
+2024/03/31-05:30:17.372714 7f5380d39700 Delete type=2 #478
+2024/03/31-05:30:17.450440 7f5380d39700 Manual compaction at level-1 from '!items.effects!mqEfNSdCjN2WIBmI.bTTJTBmVoBEiJfwh' @ 889 : 1 .. '!items.effects!xZwFvzNKypmEBGmo.ift8nqiCR3vZEnDA' @ 0 : 0; will stop at (end)

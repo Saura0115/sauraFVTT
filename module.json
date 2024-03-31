@@ -1,7 +1,7 @@
 {
   "id": "sauradata",
   "title": "Saura_Data",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -138,11 +138,11 @@
       "label": "RollTable",
       "path": "packs/rolltable",
       "type": "RollTable",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "manifest": "#{MANIFEST}#",
