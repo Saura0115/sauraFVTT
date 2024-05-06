@@ -1,7 +1,7 @@
 {
   "id": "sauradata",
   "title": "Saura_Data",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
