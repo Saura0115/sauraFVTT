@@ -1,8 +1,15 @@
-2024/05/13-13:18:32.545733 7f53837fe700 Recovering log #765
-2024/05/13-13:18:32.607885 7f53837fe700 Delete type=0 #765
-2024/05/13-13:18:32.607927 7f53837fe700 Delete type=3 #763
-2024/05/13-15:04:34.705816 7f5380d39700 Level-0 table #770: started
-2024/05/13-15:04:34.706409 7f5380d39700 Level-0 table #770: 0 bytes OK
-2024/05/13-15:04:34.710877 7f5380d39700 Delete type=0 #768
-2024/05/13-15:04:34.765451 7f5380d39700 Manual compaction at level-0 from '!tables!0oMUrVZu5rG26vLo' @ 72057594037927935 : 1 .. '!tables.results!zjkQHbIrDQ1r8r6y.cBrxz95Brjs10mP1' @ 0 : 0; will stop at (end)
-2024/05/13-15:04:34.832494 7f5380d39700 Manual compaction at level-1 from '!tables!0oMUrVZu5rG26vLo' @ 72057594037927935 : 1 .. '!tables.results!zjkQHbIrDQ1r8r6y.cBrxz95Brjs10mP1' @ 0 : 0; will stop at (end)
+2024/05/15-05:06:41.634135 7f394ae6f700 Recovering log #781
+2024/05/15-05:06:41.642387 7f394ae6f700 Delete type=3 #779
+2024/05/15-05:06:41.642432 7f394ae6f700 Delete type=0 #781
+2024/05/15-13:18:04.322490 7f36aae10700 Level-0 table #786: started
+2024/05/15-13:18:04.327047 7f36aae10700 Level-0 table #786: 1195 bytes OK
+2024/05/15-13:18:04.330380 7f36aae10700 Delete type=0 #784
+2024/05/15-13:18:04.331255 7f36aae10700 Manual compaction at level-0 from '!tables!0oMUrVZu5rG26vLo' @ 72057594037927935 : 1 .. '!tables.results!zjkQHbIrDQ1r8r6y.cBrxz95Brjs10mP1' @ 0 : 0; will stop at (end)
+2024/05/15-13:18:04.331678 7f36aae10700 Manual compaction at level-1 from '!tables!0oMUrVZu5rG26vLo' @ 72057594037927935 : 1 .. '!tables.results!zjkQHbIrDQ1r8r6y.cBrxz95Brjs10mP1' @ 0 : 0; will stop at '!tables.results!l2feJe3T2BEQvKG9.hZW2kdF8gxnKI7BB' @ 5133 : 0
+2024/05/15-13:18:04.331688 7f36aae10700 Compacting 1@1 + 1@2 files
+2024/05/15-13:18:04.341260 7f36aae10700 Generated table #787@1: 604 keys, 106626 bytes
+2024/05/15-13:18:04.341277 7f36aae10700 Compacted 1@1 + 1@2 files => 106626 bytes
+2024/05/15-13:18:04.343666 7f36aae10700 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/15-13:18:04.343737 7f36aae10700 Delete type=2 #698
+2024/05/15-13:18:04.344400 7f36aae10700 Delete type=2 #786
+2024/05/15-13:18:04.357847 7f36aae10700 Manual compaction at level-1 from '!tables.results!l2feJe3T2BEQvKG9.hZW2kdF8gxnKI7BB' @ 5133 : 0 .. '!tables.results!zjkQHbIrDQ1r8r6y.cBrxz95Brjs10mP1' @ 0 : 0; will stop at (end)
