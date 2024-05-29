@@ -1,8 +1,15 @@
-2024/05/26-06:10:08.748217 7f394a66e700 Recovering log #982
-2024/05/26-06:10:08.755314 7f394a66e700 Delete type=3 #980
-2024/05/26-06:10:08.755356 7f394a66e700 Delete type=0 #982
-2024/05/26-15:00:03.592727 7f36aae10700 Level-0 table #987: started
-2024/05/26-15:00:03.600526 7f36aae10700 Level-0 table #987: 0 bytes OK
-2024/05/26-15:00:03.605239 7f36aae10700 Delete type=0 #985
-2024/05/26-15:00:03.647451 7f36aae10700 Manual compaction at level-0 from '!folders!0bZ2XBMmXrstRM6O' @ 72057594037927935 : 1 .. '!items.effects!wkvSZ2dvd4dG5IPC.JgqKyn9LwJNg0vls' @ 0 : 0; will stop at (end)
-2024/05/26-15:00:03.651907 7f36aae10700 Manual compaction at level-1 from '!folders!0bZ2XBMmXrstRM6O' @ 72057594037927935 : 1 .. '!items.effects!wkvSZ2dvd4dG5IPC.JgqKyn9LwJNg0vls' @ 0 : 0; will stop at (end)
+2024/05/29-11:13:23.243439 7f394ae6f700 Recovering log #1018
+2024/05/29-11:13:23.249638 7f394ae6f700 Delete type=3 #1016
+2024/05/29-11:13:23.249674 7f394ae6f700 Delete type=0 #1018
+2024/05/29-14:47:11.451853 7f36aae10700 Level-0 table #1023: started
+2024/05/29-14:47:11.456266 7f36aae10700 Level-0 table #1023: 32467 bytes OK
+2024/05/29-14:47:11.458669 7f36aae10700 Delete type=0 #1021
+2024/05/29-14:47:11.462517 7f36aae10700 Manual compaction at level-0 from '!folders!0bZ2XBMmXrstRM6O' @ 72057594037927935 : 1 .. '!items.effects!wkvSZ2dvd4dG5IPC.JgqKyn9LwJNg0vls' @ 0 : 0; will stop at (end)
+2024/05/29-14:47:11.474896 7f36aae10700 Manual compaction at level-1 from '!folders!0bZ2XBMmXrstRM6O' @ 72057594037927935 : 1 .. '!items.effects!wkvSZ2dvd4dG5IPC.JgqKyn9LwJNg0vls' @ 0 : 0; will stop at '!items!rOy4EiLwyzQYcseL' @ 1430 : 1
+2024/05/29-14:47:11.474963 7f36aae10700 Compacting 1@1 + 1@2 files
+2024/05/29-14:47:11.486721 7f36aae10700 Generated table #1024@1: 311 keys, 212187 bytes
+2024/05/29-14:47:11.486740 7f36aae10700 Compacted 1@1 + 1@2 files => 212187 bytes
+2024/05/29-14:47:11.488605 7f36aae10700 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/29-14:47:11.488674 7f36aae10700 Delete type=2 #1023
+2024/05/29-14:47:11.488751 7f36aae10700 Delete type=2 #975
+2024/05/29-14:47:11.500028 7f36aae10700 Manual compaction at level-1 from '!items!rOy4EiLwyzQYcseL' @ 1430 : 1 .. '!items.effects!wkvSZ2dvd4dG5IPC.JgqKyn9LwJNg0vls' @ 0 : 0; will stop at (end)
