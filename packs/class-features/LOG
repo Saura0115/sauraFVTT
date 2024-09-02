@@ -1,8 +1,15 @@
-2024/06/23-06:05:04.024435 7f56167fc6c0 Recovering log #1480
-2024/06/23-06:05:04.033732 7f56167fc6c0 Delete type=0 #1480
-2024/06/23-06:05:04.033766 7f56167fc6c0 Delete type=3 #1478
-2024/06/23-09:52:28.563995 7f50f63a46c0 Level-0 table #1485: started
-2024/06/23-09:52:28.564459 7f50f63a46c0 Level-0 table #1485: 0 bytes OK
-2024/06/23-09:52:28.567344 7f50f63a46c0 Delete type=0 #1483
-2024/06/23-09:52:28.567478 7f50f63a46c0 Manual compaction at level-0 from '!folders!09peC14bm5KRFoDy' @ 72057594037927935 : 1 .. '!items.effects!yrVKmZpGD1q86eSX.I6JSR03IOTcESgBy' @ 0 : 0; will stop at (end)
-2024/06/23-09:52:28.567535 7f50f63a46c0 Manual compaction at level-1 from '!folders!09peC14bm5KRFoDy' @ 72057594037927935 : 1 .. '!items.effects!yrVKmZpGD1q86eSX.I6JSR03IOTcESgBy' @ 0 : 0; will stop at (end)
+2024/09/02-21:29:06.538477 7fae7b7fe6c0 Recovering log #2168
+2024/09/02-21:29:06.546026 7fae7b7fe6c0 Delete type=0 #2168
+2024/09/02-21:29:06.546075 7fae7b7fe6c0 Delete type=3 #2166
+2024/09/02-22:59:57.734442 7fa95b4936c0 Level-0 table #2173: started
+2024/09/02-22:59:57.743885 7fa95b4936c0 Level-0 table #2173: 138624 bytes OK
+2024/09/02-22:59:57.745973 7fa95b4936c0 Delete type=0 #2171
+2024/09/02-22:59:57.751367 7fa95b4936c0 Manual compaction at level-0 from '!folders!09peC14bm5KRFoDy' @ 72057594037927935 : 1 .. '!items.effects!yrVKmZpGD1q86eSX.I6JSR03IOTcESgBy' @ 0 : 0; will stop at (end)
+2024/09/02-22:59:57.806552 7fa95b4936c0 Manual compaction at level-1 from '!folders!09peC14bm5KRFoDy' @ 72057594037927935 : 1 .. '!items.effects!yrVKmZpGD1q86eSX.I6JSR03IOTcESgBy' @ 0 : 0; will stop at '!items!zHTX11guLq7SDxhX' @ 9040 : 1
+2024/09/02-22:59:57.806567 7fa95b4936c0 Compacting 1@1 + 1@2 files
+2024/09/02-22:59:57.872459 7fa95b4936c0 Generated table #2174@1: 1247 keys, 1643716 bytes
+2024/09/02-22:59:57.872479 7fa95b4936c0 Compacted 1@1 + 1@2 files => 1643716 bytes
+2024/09/02-22:59:57.874299 7fa95b4936c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/02-22:59:57.874544 7fa95b4936c0 Delete type=2 #2129
+2024/09/02-22:59:57.874955 7fa95b4936c0 Delete type=2 #2173
+2024/09/02-22:59:57.878886 7fa95b4936c0 Manual compaction at level-1 from '!items!zHTX11guLq7SDxhX' @ 9040 : 1 .. '!items.effects!yrVKmZpGD1q86eSX.I6JSR03IOTcESgBy' @ 0 : 0; will stop at (end)
