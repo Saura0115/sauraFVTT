@@ -1,8 +1,15 @@
-2024/09/02-21:24:34.011948 7fae80fd26c0 Recovering log #2052
-2024/09/02-21:24:34.019690 7fae80fd26c0 Delete type=3 #2050
-2024/09/02-21:24:34.019750 7fae80fd26c0 Delete type=0 #2052
-2024/09/02-21:28:52.170059 7fa95b4936c0 Level-0 table #2057: started
-2024/09/02-21:28:52.170090 7fa95b4936c0 Level-0 table #2057: 0 bytes OK
-2024/09/02-21:28:52.172378 7fa95b4936c0 Delete type=0 #2055
-2024/09/02-21:28:52.172601 7fa95b4936c0 Manual compaction at level-0 from '!actors!AHrCbnJhiUClnkW2' @ 72057594037927935 : 1 .. '!folders!ym2o7G39LpdBJxMl' @ 0 : 0; will stop at (end)
-2024/09/02-21:28:52.175672 7fa95b4936c0 Manual compaction at level-1 from '!actors!AHrCbnJhiUClnkW2' @ 72057594037927935 : 1 .. '!folders!ym2o7G39LpdBJxMl' @ 0 : 0; will stop at (end)
+2024/09/16-04:02:39.020785 7f99c97fa6c0 Recovering log #2345
+2024/09/16-04:02:39.031479 7f99c97fa6c0 Delete type=0 #2345
+2024/09/16-04:02:39.031530 7f99c97fa6c0 Delete type=3 #2343
+2024/09/16-16:43:53.772970 7f94a4b006c0 Level-0 table #2350: started
+2024/09/16-16:43:53.803762 7f94a4b006c0 Level-0 table #2350: 7433 bytes OK
+2024/09/16-16:43:53.807199 7f94a4b006c0 Delete type=0 #2348
+2024/09/16-16:43:53.807410 7f94a4b006c0 Manual compaction at level-0 from '!actors!2bfO9Bw21PF2ullp' @ 72057594037927935 : 1 .. '!folders!ym2o7G39LpdBJxMl' @ 0 : 0; will stop at (end)
+2024/09/16-16:43:54.557195 7f94a4b006c0 Manual compaction at level-1 from '!actors!2bfO9Bw21PF2ullp' @ 72057594037927935 : 1 .. '!folders!ym2o7G39LpdBJxMl' @ 0 : 0; will stop at '!actors.items!QKy3SRC7ms3FZWUI.whqxDPtmhObwSIh0' @ 2479 : 1
+2024/09/16-16:43:54.557211 7f94a4b006c0 Compacting 1@1 + 1@2 files
+2024/09/16-16:43:54.661264 7f94a4b006c0 Generated table #2351@1: 928 keys, 2124556 bytes
+2024/09/16-16:43:54.661292 7f94a4b006c0 Compacted 1@1 + 1@2 files => 2124556 bytes
+2024/09/16-16:43:54.708038 7f94a4b006c0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/09/16-16:43:54.708183 7f94a4b006c0 Delete type=2 #2350
+2024/09/16-16:43:54.708329 7f94a4b006c0 Delete type=2 #2337
+2024/09/16-16:43:54.708886 7f94a4b006c0 Manual compaction at level-1 from '!actors.items!QKy3SRC7ms3FZWUI.whqxDPtmhObwSIh0' @ 2479 : 1 .. '!folders!ym2o7G39LpdBJxMl' @ 0 : 0; will stop at (end)
