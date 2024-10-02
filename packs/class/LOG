@@ -1,15 +1,8 @@
-2024/09/16-16:54:01.036734 7f99c9ffb6c0 Recovering log #2465
-2024/09/16-16:54:01.048279 7f99c9ffb6c0 Delete type=3 #2443
-2024/09/16-16:54:01.048335 7f99c9ffb6c0 Delete type=0 #2465
-2024/09/17-03:58:58.069600 7f94a4b006c0 Level-0 table #2472: started
-2024/09/17-03:58:58.082614 7f94a4b006c0 Level-0 table #2472: 333442 bytes OK
-2024/09/17-03:58:58.085643 7f94a4b006c0 Delete type=0 #2470
-2024/09/17-03:58:58.086023 7f94a4b006c0 Manual compaction at level-0 from '!items!3UjihxiUDIif0eU8' @ 72057594037927935 : 1 .. '!items!zBx4rXCYNyxi8Gff' @ 0 : 0; will stop at (end)
-2024/09/17-03:58:58.086084 7f94a4b006c0 Manual compaction at level-1 from '!items!3UjihxiUDIif0eU8' @ 72057594037927935 : 1 .. '!items!zBx4rXCYNyxi8Gff' @ 0 : 0; will stop at '!items!MPDxdBjx8OeNAyOB' @ 2787 : 1
-2024/09/17-03:58:58.086091 7f94a4b006c0 Compacting 1@1 + 1@2 files
-2024/09/17-03:58:58.095910 7f94a4b006c0 Generated table #2473@1: 14 keys, 182703 bytes
-2024/09/17-03:58:58.095926 7f94a4b006c0 Compacted 1@1 + 1@2 files => 182703 bytes
-2024/09/17-03:58:58.098042 7f94a4b006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/09/17-03:58:58.098135 7f94a4b006c0 Delete type=2 #2468
-2024/09/17-03:58:58.098268 7f94a4b006c0 Delete type=2 #2472
-2024/09/17-03:58:58.143860 7f94a4b006c0 Manual compaction at level-1 from '!items!MPDxdBjx8OeNAyOB' @ 2787 : 1 .. '!items!zBx4rXCYNyxi8Gff' @ 0 : 0; will stop at (end)
+2024/10/02-15:48:23.817882 7f8f6bfff6c0 Recovering log #2751
+2024/10/02-15:48:23.825719 7f8f6bfff6c0 Delete type=3 #2749
+2024/10/02-15:48:23.825786 7f8f6bfff6c0 Delete type=0 #2751
+2024/10/02-15:49:22.682883 7f8a49a9e6c0 Level-0 table #2756: started
+2024/10/02-15:49:22.682904 7f8a49a9e6c0 Level-0 table #2756: 0 bytes OK
+2024/10/02-15:49:22.685760 7f8a49a9e6c0 Delete type=0 #2754
+2024/10/02-15:49:22.691081 7f8a49a9e6c0 Manual compaction at level-0 from '!items!3UjihxiUDIif0eU8' @ 72057594037927935 : 1 .. '!items!zBx4rXCYNyxi8Gff' @ 0 : 0; will stop at (end)
+2024/10/02-15:49:22.693672 7f8a49a9e6c0 Manual compaction at level-1 from '!items!3UjihxiUDIif0eU8' @ 72057594037927935 : 1 .. '!items!zBx4rXCYNyxi8Gff' @ 0 : 0; will stop at (end)

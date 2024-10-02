@@ -1,7 +1,7 @@
 {
   "id": "sauradata",
-  "title": "Saura Data",
-  "version": "1.1.8",
+  "title": "Saura's Data",
+  "version": "1.1.9",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -117,17 +117,6 @@
       "label": "Class Features",
       "path": "packs/class-features",
       "type": "Item",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "characters",
-      "label": "Characters",
-      "path": "packs/characters",
-      "type": "Actor",
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",

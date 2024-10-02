@@ -1,42 +1,8 @@
-2024/09/16-04:02:38.918092 7f99c97fa6c0 Recovering log #2435
-2024/09/16-04:02:38.932222 7f99c97fa6c0 Delete type=3 #2433
-2024/09/16-04:02:38.932278 7f99c97fa6c0 Delete type=0 #2435
-2024/09/16-06:40:53.840840 7f94a4b006c0 Level-0 table #2440: started
-2024/09/16-06:40:54.113753 7f94a4b006c0 Level-0 table #2440: 1742976 bytes OK
-2024/09/16-06:40:54.122873 7f94a4b006c0 Delete type=0 #2438
-2024/09/16-06:48:31.013981 7f94a4b006c0 Compacting 1@1 + 1@2 files
-2024/09/16-06:48:31.132690 7f94a4b006c0 Generated table #2441@1: 137 keys, 1251975 bytes
-2024/09/16-06:48:31.132711 7f94a4b006c0 Compacted 1@1 + 1@2 files => 1251975 bytes
-2024/09/16-06:48:31.136614 7f94a4b006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/09/16-06:48:31.137666 7f94a4b006c0 Delete type=2 #2266
-2024/09/16-06:48:31.202019 7f94a4b006c0 Delete type=2 #2440
-2024/09/16-08:01:19.005447 7f94a4b006c0 Level-0 table #2443: started
-2024/09/16-08:01:19.146590 7f94a4b006c0 Level-0 table #2443: 1712860 bytes OK
-2024/09/16-08:01:19.203483 7f94a4b006c0 Delete type=0 #2439
-2024/09/16-08:01:44.519989 7f94a4b006c0 Compacting 1@1 + 1@2 files
-2024/09/16-08:01:44.637476 7f94a4b006c0 Generated table #2444@1: 137 keys, 1253501 bytes
-2024/09/16-08:01:44.637497 7f94a4b006c0 Compacted 1@1 + 1@2 files => 1253501 bytes
-2024/09/16-08:01:44.639655 7f94a4b006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/09/16-08:01:44.639912 7f94a4b006c0 Delete type=2 #2443
-2024/09/16-08:01:44.640684 7f94a4b006c0 Delete type=2 #2441
-2024/09/16-08:20:01.618129 7f94a4b006c0 Level-0 table #2446: started
-2024/09/16-08:20:01.813342 7f94a4b006c0 Level-0 table #2446: 1792574 bytes OK
-2024/09/16-08:20:01.818726 7f94a4b006c0 Delete type=0 #2442
-2024/09/16-08:20:32.110042 7f94a4b006c0 Compacting 1@1 + 1@2 files
-2024/09/16-08:20:32.301355 7f94a4b006c0 Generated table #2447@1: 137 keys, 1255265 bytes
-2024/09/16-08:20:32.301374 7f94a4b006c0 Compacted 1@1 + 1@2 files => 1255265 bytes
-2024/09/16-08:20:32.303871 7f94a4b006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/09/16-16:43:53.169910 7f94a4b006c0 Level-0 table #2449: started
-2024/09/16-16:43:53.235483 7f94a4b006c0 Level-0 table #2449: 1649202 bytes OK
-2024/09/16-16:43:53.238224 7f94a4b006c0 Delete type=2 #2446
-2024/09/16-16:43:53.238430 7f94a4b006c0 Delete type=2 #2444
-2024/09/16-16:43:53.238582 7f94a4b006c0 Delete type=0 #2445
-2024/09/16-16:43:53.262256 7f94a4b006c0 Manual compaction at level-0 from '!folders!2m6Z5GMTPCVyAI0T' @ 72057594037927935 : 1 .. '!items!zxUC1zpKAu5zfFK2' @ 0 : 0; will stop at (end)
-2024/09/16-16:43:53.262506 7f94a4b006c0 Manual compaction at level-1 from '!folders!2m6Z5GMTPCVyAI0T' @ 72057594037927935 : 1 .. '!items!zxUC1zpKAu5zfFK2' @ 0 : 0; will stop at '!items!disCojoTqkarYgOG' @ 2617 : 1
-2024/09/16-16:43:53.262516 7f94a4b006c0 Compacting 1@1 + 1@2 files
-2024/09/16-16:43:53.331198 7f94a4b006c0 Generated table #2450@1: 137 keys, 1257038 bytes
-2024/09/16-16:43:53.331218 7f94a4b006c0 Compacted 1@1 + 1@2 files => 1257038 bytes
-2024/09/16-16:43:53.333237 7f94a4b006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/09/16-16:43:53.333508 7f94a4b006c0 Delete type=2 #2449
-2024/09/16-16:43:53.334223 7f94a4b006c0 Delete type=2 #2447
-2024/09/16-16:43:53.346110 7f94a4b006c0 Manual compaction at level-1 from '!items!disCojoTqkarYgOG' @ 2617 : 1 .. '!items!zxUC1zpKAu5zfFK2' @ 0 : 0; will stop at (end)
+2024/10/02-15:34:21.054632 7f8f6a7fc6c0 Recovering log #2734
+2024/10/02-15:34:21.062589 7f8f6a7fc6c0 Delete type=3 #2732
+2024/10/02-15:34:21.062646 7f8f6a7fc6c0 Delete type=0 #2734
+2024/10/02-15:47:43.308024 7f8a49a9e6c0 Level-0 table #2739: started
+2024/10/02-15:47:43.308672 7f8a49a9e6c0 Level-0 table #2739: 0 bytes OK
+2024/10/02-15:47:43.311427 7f8a49a9e6c0 Delete type=0 #2737
+2024/10/02-15:47:43.311562 7f8a49a9e6c0 Manual compaction at level-0 from '!folders!2m6Z5GMTPCVyAI0T' @ 72057594037927935 : 1 .. '!items!zxUC1zpKAu5zfFK2' @ 0 : 0; will stop at (end)
+2024/10/02-15:47:43.311684 7f8a49a9e6c0 Manual compaction at level-1 from '!folders!2m6Z5GMTPCVyAI0T' @ 72057594037927935 : 1 .. '!items!zxUC1zpKAu5zfFK2' @ 0 : 0; will stop at (end)
