@@ -1,8 +1,15 @@
-2024/10/11-20:44:09.540859 7f8f6b7fe6c0 Recovering log #2740
-2024/10/11-20:44:09.548488 7f8f6b7fe6c0 Delete type=0 #2740
-2024/10/11-20:44:09.548535 7f8f6b7fe6c0 Delete type=3 #2738
-2024/10/12-12:51:15.772428 7f8a49a9e6c0 Level-0 table #2745: started
-2024/10/12-12:51:15.772967 7f8a49a9e6c0 Level-0 table #2745: 0 bytes OK
-2024/10/12-12:51:15.776283 7f8a49a9e6c0 Delete type=0 #2743
-2024/10/12-12:51:15.835023 7f8a49a9e6c0 Manual compaction at level-0 from '!items!08efTxJuyE71vl7X' @ 72057594037927935 : 1 .. '!items.effects!yb7AaOEhUe0fqrO7.KJbCYo112uPpN1f3' @ 0 : 0; will stop at (end)
-2024/10/12-12:51:15.934174 7f8a49a9e6c0 Manual compaction at level-1 from '!items!08efTxJuyE71vl7X' @ 72057594037927935 : 1 .. '!items.effects!yb7AaOEhUe0fqrO7.KJbCYo112uPpN1f3' @ 0 : 0; will stop at (end)
+2024/10/17-11:35:46.036543 7f8f6affd6c0 Recovering log #2764
+2024/10/17-11:35:46.044178 7f8f6affd6c0 Delete type=3 #2762
+2024/10/17-11:35:46.044230 7f8f6affd6c0 Delete type=0 #2764
+2024/10/18-06:57:06.356725 7f8a49a9e6c0 Level-0 table #2769: started
+2024/10/18-06:57:06.360459 7f8a49a9e6c0 Level-0 table #2769: 26892 bytes OK
+2024/10/18-06:57:06.362747 7f8a49a9e6c0 Delete type=0 #2767
+2024/10/18-06:57:06.364165 7f8a49a9e6c0 Manual compaction at level-0 from '!items!08efTxJuyE71vl7X' @ 72057594037927935 : 1 .. '!items.effects!yb7AaOEhUe0fqrO7.KJbCYo112uPpN1f3' @ 0 : 0; will stop at (end)
+2024/10/18-06:57:06.439931 7f8a49a9e6c0 Manual compaction at level-1 from '!items!08efTxJuyE71vl7X' @ 72057594037927935 : 1 .. '!items.effects!yb7AaOEhUe0fqrO7.KJbCYo112uPpN1f3' @ 0 : 0; will stop at '!items.effects!5hlbSprwtTjpU7H8.Mxlgqt1Z8hmhDy1V' @ 1540 : 1
+2024/10/18-06:57:06.439946 7f8a49a9e6c0 Compacting 1@1 + 1@2 files
+2024/10/18-06:57:06.452185 7f8a49a9e6c0 Generated table #2770@1: 123 keys, 154230 bytes
+2024/10/18-06:57:06.452205 7f8a49a9e6c0 Compacted 1@1 + 1@2 files => 154230 bytes
+2024/10/18-06:57:06.454230 7f8a49a9e6c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/18-06:57:06.454358 7f8a49a9e6c0 Delete type=2 #2193
+2024/10/18-06:57:06.454975 7f8a49a9e6c0 Delete type=2 #2769
+2024/10/18-06:57:06.458708 7f8a49a9e6c0 Manual compaction at level-1 from '!items.effects!5hlbSprwtTjpU7H8.Mxlgqt1Z8hmhDy1V' @ 1540 : 1 .. '!items.effects!yb7AaOEhUe0fqrO7.KJbCYo112uPpN1f3' @ 0 : 0; will stop at (end)
