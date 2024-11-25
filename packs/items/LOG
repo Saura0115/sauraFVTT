@@ -1,8 +1,17 @@
-2024/11/15-09:20:45.120887 7f64d77fe6c0 Recovering log #3137
-2024/11/15-09:20:45.130408 7f64d77fe6c0 Delete type=0 #3137
-2024/11/15-09:20:45.130453 7f64d77fe6c0 Delete type=3 #3135
-2024/11/15-09:34:13.250841 7f5fb4bc86c0 Level-0 table #3142: started
-2024/11/15-09:34:13.251384 7f5fb4bc86c0 Level-0 table #3142: 0 bytes OK
-2024/11/15-09:34:13.254334 7f5fb4bc86c0 Delete type=0 #3140
-2024/11/15-09:34:13.254537 7f5fb4bc86c0 Manual compaction at level-0 from '!folders!6X45GLV2qUrJFFOx' @ 72057594037927935 : 1 .. '!items.effects!zrBmucmPBenIPdE4.4qWHZ5XiWY4BfQXF' @ 0 : 0; will stop at (end)
-2024/11/15-09:34:13.309736 7f5fb4bc86c0 Manual compaction at level-1 from '!folders!6X45GLV2qUrJFFOx' @ 72057594037927935 : 1 .. '!items.effects!zrBmucmPBenIPdE4.4qWHZ5XiWY4BfQXF' @ 0 : 0; will stop at (end)
+2024/11/25-09:47:41.119385 7fa209e2d6c0 Recovering log #3217
+2024/11/25-09:47:41.136451 7fa209e2d6c0 Delete type=0 #3217
+2024/11/25-09:47:41.136504 7fa209e2d6c0 Delete type=3 #3215
+2024/11/25-15:09:29.632012 7fa2036996c0 Level-0 table #3222: started
+2024/11/25-15:09:29.636275 7fa2036996c0 Level-0 table #3222: 30197 bytes OK
+2024/11/25-15:09:29.638631 7fa2036996c0 Delete type=0 #3220
+2024/11/25-15:09:29.645787 7fa2036996c0 Manual compaction at level-0 from '!folders!6X45GLV2qUrJFFOx' @ 72057594037927935 : 1 .. '!items.effects!zrBmucmPBenIPdE4.4qWHZ5XiWY4BfQXF' @ 0 : 0; will stop at (end)
+2024/11/25-15:09:29.680811 7fa2036996c0 Manual compaction at level-1 from '!folders!6X45GLV2qUrJFFOx' @ 72057594037927935 : 1 .. '!items.effects!zrBmucmPBenIPdE4.4qWHZ5XiWY4BfQXF' @ 0 : 0; will stop at '!items.effects!bcMkVOZ5lZ9PzNML.yljQ0iUw16Y6Rjf9' @ 11157 : 1
+2024/11/25-15:09:29.680826 7fa2036996c0 Compacting 1@1 + 2@2 files
+2024/11/25-15:09:29.762362 7fa2036996c0 Generated table #3223@1: 1494 keys, 2123509 bytes
+2024/11/25-15:09:29.781162 7fa2036996c0 Generated table #3224@1: 652 keys, 484822 bytes
+2024/11/25-15:09:29.781196 7fa2036996c0 Compacted 1@1 + 2@2 files => 2608331 bytes
+2024/11/25-15:09:29.783221 7fa2036996c0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/11/25-15:09:29.783347 7fa2036996c0 Delete type=2 #3222
+2024/11/25-15:09:29.783494 7fa2036996c0 Delete type=2 #3200
+2024/11/25-15:09:29.783911 7fa2036996c0 Delete type=2 #3199
+2024/11/25-15:09:29.784455 7fa2036996c0 Manual compaction at level-1 from '!items.effects!bcMkVOZ5lZ9PzNML.yljQ0iUw16Y6Rjf9' @ 11157 : 1 .. '!items.effects!zrBmucmPBenIPdE4.4qWHZ5XiWY4BfQXF' @ 0 : 0; will stop at (end)
