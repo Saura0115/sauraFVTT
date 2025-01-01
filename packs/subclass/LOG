@@ -1,8 +1,15 @@
-2024/11/25-09:47:41.255726 7fa208e2b6c0 Recovering log #3081
-2024/11/25-09:47:41.263715 7fa208e2b6c0 Delete type=0 #3081
-2024/11/25-09:47:41.263760 7fa208e2b6c0 Delete type=3 #3079
-2024/11/25-15:09:29.811771 7fa2036996c0 Level-0 table #3086: started
-2024/11/25-15:09:29.812454 7fa2036996c0 Level-0 table #3086: 0 bytes OK
-2024/11/25-15:09:29.816039 7fa2036996c0 Delete type=0 #3084
-2024/11/25-15:09:29.821028 7fa2036996c0 Manual compaction at level-0 from '!folders!2m6Z5GMTPCVyAI0T' @ 72057594037927935 : 1 .. '!items!zxUC1zpKAu5zfFK2' @ 0 : 0; will stop at (end)
-2024/11/25-15:09:29.821298 7fa2036996c0 Manual compaction at level-1 from '!folders!2m6Z5GMTPCVyAI0T' @ 72057594037927935 : 1 .. '!items!zxUC1zpKAu5zfFK2' @ 0 : 0; will stop at (end)
+2024/12/31-10:18:04.921388 7d7512a006c0 Recovering log #3325
+2024/12/31-10:18:04.928211 7d7512a006c0 Delete type=0 #3325
+2024/12/31-10:18:04.928251 7d7512a006c0 Delete type=3 #3323
+2025/01/01-04:37:10.535600 7d74fea006c0 Level-0 table #3331: started
+2025/01/01-04:37:10.564813 7d74fea006c0 Level-0 table #3331: 798716 bytes OK
+2025/01/01-04:37:10.566939 7d74fea006c0 Delete type=0 #3329
+2025/01/01-04:37:10.567720 7d74fea006c0 Manual compaction at level-0 from '!folders!2m6Z5GMTPCVyAI0T' @ 72057594037927935 : 1 .. '!items!zxUC1zpKAu5zfFK2' @ 0 : 0; will stop at (end)
+2025/01/01-04:37:10.629888 7d74fea006c0 Manual compaction at level-1 from '!folders!2m6Z5GMTPCVyAI0T' @ 72057594037927935 : 1 .. '!items!zxUC1zpKAu5zfFK2' @ 0 : 0; will stop at '!items!Ukml2uavsAzU6ZKm' @ 3513 : 1
+2025/01/01-04:37:10.629902 7d74fea006c0 Compacting 1@1 + 1@2 files
+2025/01/01-04:37:10.675854 7d74fea006c0 Generated table #3332@1: 138 keys, 1272565 bytes
+2025/01/01-04:37:10.675873 7d74fea006c0 Compacted 1@1 + 1@2 files => 1272565 bytes
+2025/01/01-04:37:10.679006 7d74fea006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/01-04:37:10.679352 7d74fea006c0 Delete type=2 #3331
+2025/01/01-04:37:10.679771 7d74fea006c0 Delete type=2 #3327
+2025/01/01-04:37:10.680149 7d74fea006c0 Manual compaction at level-1 from '!items!Ukml2uavsAzU6ZKm' @ 3513 : 1 .. '!items!zxUC1zpKAu5zfFK2' @ 0 : 0; will stop at (end)

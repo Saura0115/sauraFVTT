@@ -1,8 +1,15 @@
-2024/11/25-09:47:41.106269 7fa208e2b6c0 Recovering log #3015
-2024/11/25-09:47:41.113081 7fa208e2b6c0 Delete type=0 #3015
-2024/11/25-09:47:41.113122 7fa208e2b6c0 Delete type=3 #3013
-2024/11/25-15:09:29.642558 7fa2036996c0 Level-0 table #3020: started
-2024/11/25-15:09:29.643174 7fa2036996c0 Level-0 table #3020: 0 bytes OK
-2024/11/25-15:09:29.645665 7fa2036996c0 Delete type=0 #3018
-2024/11/25-15:09:29.645834 7fa2036996c0 Manual compaction at level-0 from '!items!08efTxJuyE71vl7X' @ 72057594037927935 : 1 .. '!items.effects!yb7AaOEhUe0fqrO7.KJbCYo112uPpN1f3' @ 0 : 0; will stop at (end)
-2024/11/25-15:09:29.784410 7fa2036996c0 Manual compaction at level-1 from '!items!08efTxJuyE71vl7X' @ 72057594037927935 : 1 .. '!items.effects!yb7AaOEhUe0fqrO7.KJbCYo112uPpN1f3' @ 0 : 0; will stop at (end)
+2024/12/31-10:18:04.719758 7d7512a006c0 Recovering log #3258
+2024/12/31-10:18:04.727497 7d7512a006c0 Delete type=0 #3258
+2024/12/31-10:18:04.727542 7d7512a006c0 Delete type=3 #3256
+2025/01/01-04:37:10.331290 7d74fea006c0 Level-0 table #3264: started
+2025/01/01-04:37:10.336487 7d74fea006c0 Level-0 table #3264: 23503 bytes OK
+2025/01/01-04:37:10.341323 7d74fea006c0 Delete type=0 #3262
+2025/01/01-04:37:10.352264 7d74fea006c0 Manual compaction at level-0 from '!items!08efTxJuyE71vl7X' @ 72057594037927935 : 1 .. '!items.effects!yb7AaOEhUe0fqrO7.KJbCYo112uPpN1f3' @ 0 : 0; will stop at (end)
+2025/01/01-04:37:10.494448 7d74fea006c0 Manual compaction at level-1 from '!items!08efTxJuyE71vl7X' @ 72057594037927935 : 1 .. '!items.effects!yb7AaOEhUe0fqrO7.KJbCYo112uPpN1f3' @ 0 : 0; will stop at '!items.effects!QLQEN0g323VGpAHJ.fU8jDydgC1rhjBzd' @ 1642 : 1
+2025/01/01-04:37:10.506170 7d74fea006c0 Compacting 1@1 + 1@2 files
+2025/01/01-04:37:10.513768 7d74fea006c0 Generated table #3265@1: 128 keys, 157130 bytes
+2025/01/01-04:37:10.513789 7d74fea006c0 Compacted 1@1 + 1@2 files => 157130 bytes
+2025/01/01-04:37:10.515819 7d74fea006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/01-04:37:10.515919 7d74fea006c0 Delete type=2 #3264
+2025/01/01-04:37:10.516063 7d74fea006c0 Delete type=2 #3260
+2025/01/01-04:37:10.526927 7d74fea006c0 Manual compaction at level-1 from '!items.effects!QLQEN0g323VGpAHJ.fU8jDydgC1rhjBzd' @ 1642 : 1 .. '!items.effects!yb7AaOEhUe0fqrO7.KJbCYo112uPpN1f3' @ 0 : 0; will stop at (end)

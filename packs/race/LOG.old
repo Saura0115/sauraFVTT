@@ -1,8 +1,15 @@
-2024/11/25-09:26:56.541802 7fa20962c6c0 Recovering log #3042
-2024/11/25-09:26:56.550097 7fa20962c6c0 Delete type=0 #3042
-2024/11/25-09:26:56.550141 7fa20962c6c0 Delete type=3 #3040
-2024/11/25-09:47:06.751850 7fa2036996c0 Level-0 table #3047: started
-2024/11/25-09:47:06.751884 7fa2036996c0 Level-0 table #3047: 0 bytes OK
-2024/11/25-09:47:06.754335 7fa2036996c0 Delete type=0 #3045
-2024/11/25-09:47:06.754653 7fa2036996c0 Manual compaction at level-0 from '!folders!1o1y3JzAXsOeLmCy' @ 72057594037927935 : 1 .. '!items!xu5Br1OEuPAeEGPI' @ 0 : 0; will stop at (end)
-2024/11/25-09:47:06.831798 7fa2036996c0 Manual compaction at level-1 from '!folders!1o1y3JzAXsOeLmCy' @ 72057594037927935 : 1 .. '!items!xu5Br1OEuPAeEGPI' @ 0 : 0; will stop at (end)
+2024/12/28-01:43:30.351684 7d75134006c0 Recovering log #3285
+2024/12/28-01:43:30.359733 7d75134006c0 Delete type=3 #3283
+2024/12/28-01:43:30.359792 7d75134006c0 Delete type=0 #3285
+2024/12/31-10:13:05.874533 7d74fea006c0 Level-0 table #3290: started
+2024/12/31-10:13:05.884187 7d74fea006c0 Level-0 table #3290: 261936 bytes OK
+2024/12/31-10:13:05.886883 7d74fea006c0 Delete type=0 #3288
+2024/12/31-10:13:05.912943 7d74fea006c0 Manual compaction at level-0 from '!folders!1o1y3JzAXsOeLmCy' @ 72057594037927935 : 1 .. '!items!xu5Br1OEuPAeEGPI' @ 0 : 0; will stop at (end)
+2024/12/31-10:13:05.913087 7d74fea006c0 Manual compaction at level-1 from '!folders!1o1y3JzAXsOeLmCy' @ 72057594037927935 : 1 .. '!items!xu5Br1OEuPAeEGPI' @ 0 : 0; will stop at '!items!wYhF3BZ9jzkZvZRv' @ 1698 : 1
+2024/12/31-10:13:05.913128 7d74fea006c0 Compacting 1@1 + 1@2 files
+2024/12/31-10:13:05.926436 7d74fea006c0 Generated table #3291@1: 111 keys, 263901 bytes
+2024/12/31-10:13:05.926456 7d74fea006c0 Compacted 1@1 + 1@2 files => 263901 bytes
+2024/12/31-10:13:05.929528 7d74fea006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/31-10:13:05.929659 7d74fea006c0 Delete type=2 #3134
+2024/12/31-10:13:05.929802 7d74fea006c0 Delete type=2 #3290
+2024/12/31-10:13:05.956939 7d74fea006c0 Manual compaction at level-1 from '!items!wYhF3BZ9jzkZvZRv' @ 1698 : 1 .. '!items!xu5Br1OEuPAeEGPI' @ 0 : 0; will stop at (end)

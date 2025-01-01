@@ -1,8 +1,15 @@
-2024/11/25-09:26:56.409359 7fa208e2b6c0 Recovering log #3111
-2024/11/25-09:26:56.416866 7fa208e2b6c0 Delete type=0 #3111
-2024/11/25-09:26:56.416910 7fa208e2b6c0 Delete type=3 #3109
-2024/11/25-09:47:06.643015 7fa2036996c0 Level-0 table #3116: started
-2024/11/25-09:47:06.643049 7fa2036996c0 Level-0 table #3116: 0 bytes OK
-2024/11/25-09:47:06.645419 7fa2036996c0 Delete type=0 #3114
-2024/11/25-09:47:06.645721 7fa2036996c0 Manual compaction at level-0 from '!folders!6oXtYsViAajBJ2l8' @ 72057594037927935 : 1 .. '!items.effects!ztBF8ZIA8bApfTNT.JQQ1pEulE4LrNzE2' @ 0 : 0; will stop at (end)
-2024/11/25-09:47:06.649202 7fa2036996c0 Manual compaction at level-1 from '!folders!6oXtYsViAajBJ2l8' @ 72057594037927935 : 1 .. '!items.effects!ztBF8ZIA8bApfTNT.JQQ1pEulE4LrNzE2' @ 0 : 0; will stop at (end)
+2024/12/28-01:43:30.217260 7d7512a006c0 Recovering log #3358
+2024/12/28-01:43:30.225446 7d7512a006c0 Delete type=0 #3358
+2024/12/28-01:43:30.225486 7d7512a006c0 Delete type=3 #3356
+2024/12/31-10:13:05.812400 7d74fea006c0 Level-0 table #3363: started
+2024/12/31-10:13:05.816146 7d74fea006c0 Level-0 table #3363: 17950 bytes OK
+2024/12/31-10:13:05.818637 7d74fea006c0 Delete type=0 #3361
+2024/12/31-10:13:05.826853 7d74fea006c0 Manual compaction at level-0 from '!folders!6oXtYsViAajBJ2l8' @ 72057594037927935 : 1 .. '!items.effects!ztBF8ZIA8bApfTNT.JQQ1pEulE4LrNzE2' @ 0 : 0; will stop at (end)
+2024/12/31-10:13:05.827444 7d74fea006c0 Manual compaction at level-1 from '!folders!6oXtYsViAajBJ2l8' @ 72057594037927935 : 1 .. '!items.effects!ztBF8ZIA8bApfTNT.JQQ1pEulE4LrNzE2' @ 0 : 0; will stop at '!items!ztBF8ZIA8bApfTNT' @ 3308 : 1
+2024/12/31-10:13:05.827457 7d74fea006c0 Compacting 1@1 + 1@2 files
+2024/12/31-10:13:05.871560 7d74fea006c0 Generated table #3364@1: 577 keys, 918294 bytes
+2024/12/31-10:13:05.871581 7d74fea006c0 Compacted 1@1 + 1@2 files => 918294 bytes
+2024/12/31-10:13:05.873543 7d74fea006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/31-10:13:05.873659 7d74fea006c0 Delete type=2 #3363
+2024/12/31-10:13:05.873836 7d74fea006c0 Delete type=2 #3231
+2024/12/31-10:13:05.912918 7d74fea006c0 Manual compaction at level-1 from '!items!ztBF8ZIA8bApfTNT' @ 3308 : 1 .. '!items.effects!ztBF8ZIA8bApfTNT.JQQ1pEulE4LrNzE2' @ 0 : 0; will stop at (end)
