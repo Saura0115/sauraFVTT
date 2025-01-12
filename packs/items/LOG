@@ -1,17 +1,8 @@
-2024/12/31-10:18:04.732737 7d75120006c0 Recovering log #3466
-2024/12/31-10:18:04.740430 7d75120006c0 Delete type=3 #3464
-2024/12/31-10:18:04.740485 7d75120006c0 Delete type=0 #3466
-2025/01/01-04:37:10.341483 7d74fea006c0 Level-0 table #3473: started
-2025/01/01-04:37:10.344527 7d74fea006c0 Level-0 table #3473: 16730 bytes OK
-2025/01/01-04:37:10.346719 7d74fea006c0 Delete type=0 #3471
-2025/01/01-04:37:10.352277 7d74fea006c0 Manual compaction at level-0 from '!folders!6X45GLV2qUrJFFOx' @ 72057594037927935 : 1 .. '!items.effects!zrBmucmPBenIPdE4.4qWHZ5XiWY4BfQXF' @ 0 : 0; will stop at (end)
-2025/01/01-04:37:10.385971 7d74fea006c0 Manual compaction at level-1 from '!folders!6X45GLV2qUrJFFOx' @ 72057594037927935 : 1 .. '!items.effects!zrBmucmPBenIPdE4.4qWHZ5XiWY4BfQXF' @ 0 : 0; will stop at '!items.effects!scA2qfcmRJe4TtLj.JR4uY0DQKxW0QKgT' @ 11215 : 1
-2025/01/01-04:37:10.385985 7d74fea006c0 Compacting 1@1 + 2@2 files
-2025/01/01-04:37:10.474278 7d74fea006c0 Generated table #3474@1: 1495 keys, 2124853 bytes
-2025/01/01-04:37:10.491277 7d74fea006c0 Generated table #3475@1: 653 keys, 487418 bytes
-2025/01/01-04:37:10.491296 7d74fea006c0 Compacted 1@1 + 2@2 files => 2612271 bytes
-2025/01/01-04:37:10.493155 7d74fea006c0 compacted to: files[ 0 0 2 0 0 0 0 ]
-2025/01/01-04:37:10.493268 7d74fea006c0 Delete type=2 #3469
-2025/01/01-04:37:10.493618 7d74fea006c0 Delete type=2 #3468
-2025/01/01-04:37:10.494329 7d74fea006c0 Delete type=2 #3473
-2025/01/01-04:37:10.516239 7d74fea006c0 Manual compaction at level-1 from '!items.effects!scA2qfcmRJe4TtLj.JR4uY0DQKxW0QKgT' @ 11215 : 1 .. '!items.effects!zrBmucmPBenIPdE4.4qWHZ5XiWY4BfQXF' @ 0 : 0; will stop at (end)
+2025/01/11-12:46:17.155892 7d75120006c0 Recovering log #3540
+2025/01/11-12:46:17.162858 7d75120006c0 Delete type=0 #3540
+2025/01/11-12:46:17.162899 7d75120006c0 Delete type=3 #3538
+2025/01/12-05:18:22.088072 7d74fea006c0 Level-0 table #3547: started
+2025/01/12-05:18:22.088566 7d74fea006c0 Level-0 table #3547: 0 bytes OK
+2025/01/12-05:18:22.092982 7d74fea006c0 Delete type=0 #3545
+2025/01/12-05:18:22.109381 7d74fea006c0 Manual compaction at level-0 from '!folders!6X45GLV2qUrJFFOx' @ 72057594037927935 : 1 .. '!items.effects!zrBmucmPBenIPdE4.4qWHZ5XiWY4BfQXF' @ 0 : 0; will stop at (end)
+2025/01/12-05:18:22.112871 7d74fea006c0 Manual compaction at level-1 from '!folders!6X45GLV2qUrJFFOx' @ 72057594037927935 : 1 .. '!items.effects!zrBmucmPBenIPdE4.4qWHZ5XiWY4BfQXF' @ 0 : 0; will stop at (end)
