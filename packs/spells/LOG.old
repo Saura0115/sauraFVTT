@@ -1,8 +1,15 @@
-2025/03/20-12:47:18.449994 7f30478006c0 Recovering log #4034
-2025/03/20-12:47:18.457458 7f30478006c0 Delete type=0 #4034
-2025/03/20-12:47:18.457498 7f30478006c0 Delete type=3 #4032
-2025/03/21-10:51:53.664869 7f3046e006c0 Level-0 table #4039: started
-2025/03/21-10:51:53.665331 7f3046e006c0 Level-0 table #4039: 0 bytes OK
-2025/03/21-10:51:53.668088 7f3046e006c0 Delete type=0 #4037
-2025/03/21-10:51:53.668233 7f3046e006c0 Manual compaction at level-0 from '!folders!6oXtYsViAajBJ2l8' @ 72057594037927935 : 1 .. '!items.effects!ztBF8ZIA8bApfTNT.JQQ1pEulE4LrNzE2' @ 0 : 0; will stop at (end)
-2025/03/21-10:51:53.770935 7f3046e006c0 Manual compaction at level-1 from '!folders!6oXtYsViAajBJ2l8' @ 72057594037927935 : 1 .. '!items.effects!ztBF8ZIA8bApfTNT.JQQ1pEulE4LrNzE2' @ 0 : 0; will stop at (end)
+2025/03/27-10:21:16.227810 7959bea006c0 Recovering log #4066
+2025/03/27-10:21:16.237215 7959bea006c0 Delete type=3 #4064
+2025/03/27-10:21:16.237277 7959bea006c0 Delete type=0 #4066
+2025/03/29-04:34:35.305932 7959aba006c0 Level-0 table #4071: started
+2025/03/29-04:34:35.313995 7959aba006c0 Level-0 table #4071: 137597 bytes OK
+2025/03/29-04:34:35.316649 7959aba006c0 Delete type=0 #4069
+2025/03/29-04:34:35.322967 7959aba006c0 Manual compaction at level-0 from '!folders!6oXtYsViAajBJ2l8' @ 72057594037927935 : 1 .. '!items.effects!ztBF8ZIA8bApfTNT.JQQ1pEulE4LrNzE2' @ 0 : 0; will stop at (end)
+2025/03/29-04:34:35.327366 7959aba006c0 Manual compaction at level-1 from '!folders!6oXtYsViAajBJ2l8' @ 72057594037927935 : 1 .. '!items.effects!ztBF8ZIA8bApfTNT.JQQ1pEulE4LrNzE2' @ 0 : 0; will stop at '!items.effects!n7ozzGMT74xENBEX.hGivtx4Q1redL8uv' @ 7542 : 1
+2025/03/29-04:34:35.327373 7959aba006c0 Compacting 1@1 + 1@2 files
+2025/03/29-04:34:35.380476 7959aba006c0 Generated table #4072@1: 599 keys, 1287214 bytes
+2025/03/29-04:34:35.380496 7959aba006c0 Compacted 1@1 + 1@2 files => 1287214 bytes
+2025/03/29-04:34:35.382401 7959aba006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/29-04:34:35.382551 7959aba006c0 Delete type=2 #4049
+2025/03/29-04:34:35.382918 7959aba006c0 Delete type=2 #4071
+2025/03/29-04:34:35.388127 7959aba006c0 Manual compaction at level-1 from '!items.effects!n7ozzGMT74xENBEX.hGivtx4Q1redL8uv' @ 7542 : 1 .. '!items.effects!ztBF8ZIA8bApfTNT.JQQ1pEulE4LrNzE2' @ 0 : 0; will stop at (end)
